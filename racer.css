@@ -1,0 +1,51 @@
+html {
+  margin: 0 auto;
+  padding: 0 auto;
+  border-top: 7px solid black;
+  font-size: 16px;
+}
+
+#container {
+  width: 75%;
+  height: auto;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.racer_table {
+  margin: 0 auto;
+}
+.racer_table td {
+  background-color: white;
+  height: 1.5em;
+  width: 1.5em;
+  border: 1px solid black;
+}
+
+.racer_table td.active {
+  background-color: black;
+}
+
+td {
+  padding: 2em;
+}
+
+.race-track1 {
+  padding: 3em;
+}
+
+.race-track2 {
+  padding: 3em;
+}
+
+h3 {
+  text-align: center;
+  padding: 1em;
+}
+
+.instructions {
+  padding: 2em;
+}
