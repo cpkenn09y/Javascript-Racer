@@ -1,5 +1,5 @@
 Ken's Javascript Racer
-
+===
 * A simple racing game made in Javascript
 * Use 'Q' or 'P' to move forward
 * To launch, simply open the HTML file
